@@ -4,7 +4,7 @@
 <h3>There are no specific 'instructions' that I followed; all the code was done by myself according to the requirements. Although to be honest, I did not strictly follow all the requirements...</h3>
 <hr>
 <p><a href="https://github.com/DayDreamYGithub/Legacy-Frontend-Projects/tree/main/RandomQuoteMachine"><strong>Random Quote Machine</strong></a>🌟🌟</p>
-  <p>HTML-CSS</p>
+  <p>HTML/CSS</p>
   <p>Bootstrap</p>
   <p>Javascript</p>
   <p>API</p>
