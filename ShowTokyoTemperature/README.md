@@ -1,6 +1,7 @@
 <div align="center">
 
-Project Page Link : <a href="https://daydreamygithubhost.github.io/ShowTokyoTemperature/">Random Quote Machine</a>
+Project Page Link : <a href="https://daydreamygithubhost.github.io/ShowTokyoTemperature/">Show Tokyo Temperature
+</a>
 <hr>
 HTML/CSS<br>
 Bootstrap<br>
