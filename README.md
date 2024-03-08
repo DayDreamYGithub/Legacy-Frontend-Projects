@@ -10,7 +10,7 @@
   <p>Javascript</p>
   <p>API</p>
 <hr>
-<p><a href="#"><strong>Show Tokyo Temperature</strong></a>🌟</p>
+<p><a href="https://github.com/DayDreamYGithub/Legacy-Frontend-Projects/tree/main/ShowTokyoTemperature"><strong>Show Tokyo Temperature</strong></a>🌟</p>
   <p>HTML/CSS</p>
   <p>Javascript</p>
   <p>API</p>
