@@ -11,4 +11,6 @@ API<br>
 It is a simple project that allows users to know the current time in real-time.
 <hr>
 
+<img src="#">
+
 </div>
