@@ -11,6 +11,6 @@ API<br>
 It is a simple project that allows users to know the current time in real-time.
 <hr>
 
-<img src="#">
+<img src="https://github.com/DayDreamYGithub/Legacy-Frontend-Projects/blob/main/ShowTokyoTemperature/gitimg/gitimg.png?raw=true">
 
 </div>
